@@ -80,8 +80,6 @@ function secondHalfOfArrayIfItIsEven(fruits) {
  */
 function youGottaCalmDown(shout) {
   // Your code here
-  while (shout.endsWith("!!")) shout = shout.slice(0, -1);
-  return shout;
 }
 
 module.exports = {
