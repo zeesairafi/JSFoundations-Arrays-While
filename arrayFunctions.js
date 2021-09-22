@@ -75,8 +75,8 @@ function secondHalfOfArrayIfItIsEven(fruits) {
  * youGottaCalmDown("Hellooooo") -> "Hellooooo"
  *
  * Hint:
+ * - Use number method .indexOf()
  * - Use string method .slice()
- * - Use string method .endsWith()
  */
 function youGottaCalmDown(shout) {
   // Your code here
