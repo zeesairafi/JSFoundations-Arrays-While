@@ -26,13 +26,13 @@ Install all the requirements:
 2. Install the required packages with the following command:
 
    ```bash
-   $ yarn install
+   $ npm install
    ```
 
 Run the tests:
 
 ```bash
-$ yarn test
+$ npm test
 ```
 
 This command will run the testing file and test your code to make sure it has all the required features.
